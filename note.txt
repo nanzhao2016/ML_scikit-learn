@@ -18,4 +18,6 @@ Unspervised Learning
 m: number of training examples
 x's: input variables/ features
 y's: output variable/ target variable
- 
+
+
+
